@@ -64,7 +64,7 @@ O uso de visualizações facilitou a interpretação dos indicadores logísticos
 
 📷 Dashboard:
 
-/imagens/dashboard.png
+imagens/dashboard.png
 
 Aprendizados
 
