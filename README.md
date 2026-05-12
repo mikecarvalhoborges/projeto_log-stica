@@ -64,8 +64,7 @@ O uso de visualizações facilitou a interpretação dos indicadores logísticos
 
 📷 Dashboard:
 
-[imagens/dashboard.png
-](https://github.com/mikecarvalhoborges/projeto_log-stica/blob/main/imagens/dashboard.png)
+https://github.com/mikecarvalhoborges/projeto_log-stica/blob/main/imagens/dashboard.png
 
 Aprendizados
 
