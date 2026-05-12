@@ -62,11 +62,9 @@ Foi possível identificar regiões com maior concentração de problemas logíst
 A análise demonstrou diferenças de eficiência operacional entre transportadoras.
 O uso de visualizações facilitou a interpretação dos indicadores logísticos.
 
-📷 Dashboard:
+![📷 Dashboard:](https://github.com/mikecarvalhoborges/projeto_log-stica/blob/main/imagens/dashboard.png)
 
-https://github.com/mikecarvalhoborges/projeto_log-stica/blob/main/imagens/dashboard.png
-
-Aprendizados
+Aprendizados:
 
 Durante o desenvolvimento deste projeto foram praticados conceitos de:
 
