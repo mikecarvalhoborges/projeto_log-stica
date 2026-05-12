@@ -3,7 +3,7 @@
 ## Objetivo do Projeto
 Este projeto tem como objetivo analisar a performance logística de transportadoras utilizando Python, Spark SQL e Power BI.
 
-A análise foi desenvolvida para identificar:
+## A análise foi desenvolvida para identificar:
 - tempo médio de entrega;
 - taxa de atrasos;
 - regiões com maior incidência de problemas logísticos;
@@ -21,7 +21,7 @@ A análise foi desenvolvida para identificar:
 ---
 
 ## Etapas do Projeto
-1. Tratamento de Dados com Python
+### 1. Tratamento de Dados com Python
 
 - Foi realizado:
 - padronização de textos;
@@ -33,7 +33,7 @@ A análise foi desenvolvida para identificar:
 
 ---
 
-2. Processamento com Spark SQL
+### 2. Processamento com Spark SQL
 
 - Utilizando Spark SQL, foram feitas análises como:
 - total de entregas por transportadora;
@@ -45,7 +45,7 @@ A análise foi desenvolvida para identificar:
 
 ---
 
-3. Construção do Dashboard no Power BI
+### 3. Construção do Dashboard no Power BI
 
 - O dashboard foi desenvolvido para apresentar:
 - KPIs principais;
