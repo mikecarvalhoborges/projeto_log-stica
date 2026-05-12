@@ -62,7 +62,8 @@ Foi possível identificar regiões com maior concentração de problemas logíst
 A análise demonstrou diferenças de eficiência operacional entre transportadoras.
 O uso de visualizações facilitou a interpretação dos indicadores logísticos.
 
-📷 Dashboard
+📷 Dashboard:
+
 /imagens/dashboard.png
 
 Aprendizados
