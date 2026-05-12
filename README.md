@@ -1,6 +1,6 @@
-Análise Logística de Transportadoras
+# Análise Logística de Transportadoras
 
-Objetivo do Projeto
+## Objetivo do Projeto
 Este projeto tem como objetivo analisar a performance logística de transportadoras utilizando Python, Spark SQL e Power BI.
 
 A análise foi desenvolvida para identificar:
@@ -9,14 +9,18 @@ A análise foi desenvolvida para identificar:
 - regiões com maior incidência de problemas logísticos;
 - relação entre custo de frete e eficiência operacional.
 
-Tecnologias Utilizadas:
+---
+
+## Tecnologias Utilizadas:
 - Python;
 - Pandas;
 - PySpark;
 - Spark SQL;
 - Power BI.
 
-Etapas do Projeto
+---
+
+## Etapas do Projeto
 1. Tratamento de Dados com Python
 
 - Foi realizado:
@@ -26,6 +30,8 @@ Etapas do Projeto
 - criação de métricas logísticas;
 - cálculo do tempo de entrega;
 - classificação de entregas no prazo e atrasadas.
+
+---
 
 2. Processamento com Spark SQL
 
@@ -37,6 +43,8 @@ Etapas do Projeto
 - taxa percentual de atrasos;
 - análise regional de performance logística.
 
+---
+
 3. Construção do Dashboard no Power BI
 
 - O dashboard foi desenvolvido para apresentar:
@@ -46,7 +54,9 @@ Etapas do Projeto
 - análise regional;
 - visualização da relação entre custo e eficiência logística.
 
-Indicadores Desenvolvidos:
+---
+
+## Indicadores Desenvolvidos:
 - Total de Entregas;
 - Preço Médio de Frete;
 - Taxa de Atraso;
@@ -56,7 +66,9 @@ Indicadores Desenvolvidos:
 - Total de Atrasos por Região;
 - Relação entre Frete Médio e Tempo Médio de Entrega.
 
-Principais Insights:
+---
+
+## Principais Insights:
 Algumas transportadoras apresentaram maior incidência de atrasos mesmo com fretes mais elevados.
 Foi possível identificar regiões com maior concentração de problemas logísticos.
 A análise demonstrou diferenças de eficiência operacional entre transportadoras.
@@ -64,7 +76,9 @@ O uso de visualizações facilitou a interpretação dos indicadores logísticos
 
 ![📷 Dashboard:](https://github.com/mikecarvalhoborges/projeto_log-stica/blob/main/imagens/dashboard.png)
 
-Aprendizados:
+---
+
+## Aprendizados:
 
 Durante o desenvolvimento deste projeto foram praticados conceitos de:
 
